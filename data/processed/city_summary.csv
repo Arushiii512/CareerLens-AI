@@ -1,0 +1,199 @@
+primary_city,Number_of_Jobs,Average_Rating,Average_Salary
+Mumbai,3276,3.57,1.73
+Bangalore,2830,3.61,1.45
+Chennai,2666,3.6,2.37
+Pune,2606,3.57,2.35
+Noida,2585,3.57,1.74
+Gurgaon,2210,3.55,1.46
+Remote,2010,3.65,1.11
+Kolkata,1735,3.56,1.13
+Ahmedabad,1352,3.64,1.36
+Delhi,920,3.52,1.94
+Hyderabad,538,3.54,5.35
+Hubli,38,3.65,0.0
+Mumbai Suburban,33,3.51,2.61
+Pune(Baner),22,3.63,8.06
+Panipat,19,3.7,0.0
+Pune(Hinjewadi Phase 1),11,3.51,6.23
+Prayagraj,10,3.44,0.0
+Kochi,9,3.42,3.78
+Indore,9,3.58,4.28
+Bhubaneswar,8,3.49,4.47
+Pune(Viman Nagar),7,3.79,16.71
+Pune(Kharadi),7,3.49,1.93
+Mumbai(Airoli),6,3.63,10.29
+Kolkata(New Town),6,3.97,1.92
+Chennai(Perungudi),6,3.43,0.04
+Chennai(Guindy),5,3.78,0.0
+Ahmedabad(Bodakdev),5,3.88,7.2
+Pune(Kalyani Nagar),5,3.82,4.0
+Kolkata(Sector 5 Salt Lake),5,3.48,0.35
+Mumbai(Goregaon),5,2.94,2.3
+Kolkata(Salt Lake),5,3.62,1.05
+Mumbai(Andheri East),4,3.22,10.75
+Pune(Hinjewadi),4,3.55,11.38
+Kolkata(Park Street),4,3.52,3.0
+Chandigarh,4,3.58,0.0
+Bhopal,4,4.25,13.12
+Hosur,4,3.38,0.9
+Chennai(Taramani),4,3.62,0.0
+Mumbai(Bandra Kurla Complex),4,3.72,0.0
+Mumbai(Lower Parel),4,3.58,9.0
+Mumbai(Andheri),3,3.5,2.33
+Mumbai(Ghansoli),3,3.3,0.0
+Mumbai(Prabhadevi),3,3.77,12.08
+Mumbai(Vikhroli),3,3.7,16.54
+Mohali,3,3.47,12.0
+Pune(Kothrud),3,3.77,3.0
+Kolkata(Ballygunge),3,3.6,1.56
+Gandhinagar,3,3.6,0.0
+Ahmedabad(Makarba),3,3.8,4.92
+Ahmedabad(Sanand),3,3.7,0.0
+Chennai(Sholinganallur),3,4.23,7.25
+Chennai(Ambattur Industrial Estate),3,3.87,0.0
+Pan India,3,3.3,0.0
+Pune(Magarpatta),3,3.17,5.0
+Ahmedabad(Navrangpura),2,3.55,3.6
+Ahmedabad(Prahlad Nagar),2,3.7,4.5
+Ahmedabad(Thaltej),2,3.1,0.0
+Ahmedabad(Changodar),2,4.0,3.62
+Ahmedabad(Ring Road),2,3.5,4.5
+Chennai(Thoraipakkam),2,3.25,8.62
+Chennai(T Nagar),2,3.65,0.0
+Mumbai(Powai),2,4.35,3.5
+Mumbai(Wadala),2,3.8,9.38
+Mumbai(Rabale),2,3.3,4.38
+Mysuru,2,3.75,0.0
+Mumbai(Marol),2,3.9,0.0
+Mumbai(Bhayander West),2,3.6,7.5
+Mumbai(Belapur),2,2.35,3.75
+Ahmedabad(Dholera),2,3.9,0.0
+Chennai(Chennai Central Rs),2,4.05,8.75
+Kolkata(New Alipore),2,2.2,2.0
+Kolkata(Minto Park),2,3.45,2.0
+Kolkata(Park Circus),2,3.6,4.16
+Kolkata(Dalhousie),2,3.4,0.0
+Mumbai(Goregaon East),2,3.5,2.5
+Kolkata(Taratala),2,3.2,0.0
+Kolkata(Alipore),2,3.3,1.12
+Pune(Hadapsar),2,3.9,9.5
+Pune(Shivaji Nagar),2,4.1,6.25
+Pune(Hinjewadi Phase 1 +3),2,3.9,0.0
+Pune(Magarpatta +1),2,3.7,0.0
+Udaipur,2,3.3,10.25
+Visakhapatnam,2,3.6,0.0
+Pune(Wakad),2,3.25,6.25
+Chennai(Mylapore),1,3.6,3.38
+Chennai(Manali +1),1,4.3,0.0
+Hyderabad(Begumpet),1,3.6,15.0
+Ghazipur,1,4.0,0.0
+Fatehabad,1,4.0,0.0
+Chennai(Tamil Nagar),1,3.6,26.25
+Chennai(Siruseri Sipcot It Park),1,3.3,0.0
+Chennai(Red Hills),1,3.9,0.0
+Chennai(Mogappair),1,3.6,0.0
+Ahmedabad(Krishnanagar),1,3.6,7.8
+Chennai(Akkarai),1,4.2,0.0
+Ahmedabad(Vastrapur),1,3.6,0.0
+Bahadurgarh,1,4.0,0.0
+Chennai(Ambattur),1,3.6,15.0
+Chennai(Anna Nagar),1,4.0,0.0
+Chennai(Aminjikarai),1,4.3,0.0
+Chennai(Anna Salai),1,3.4,0.0
+Chennai(Gopalapuram),1,4.1,2.75
+Ahmedabad(Cg Road),1,4.7,3.75
+Ahmedabad(Shela),1,3.6,4.5
+Ahmedabad(Sindhu Bhavan Road),1,3.6,0.0
+Ahmedabad(Chhatral),1,4.9,6.5
+Ahmedabad(South Bopal),1,4.0,3.75
+Agra,1,5.0,0.0
+Ahmedabad(Ahmedabad Cantonment),1,2.4,12.5
+Ahmedabad(Ambli Bopal),1,3.7,0.0
+Ahemdabad,1,3.6,6.12
+Chennai(Nandanam),1,3.5,6.25
+Chennai(Nungambakkam +1),1,4.2,0.0
+Chennai(Navalur),1,4.3,0.0
+Chennai(Omr),1,4.7,24.5
+Chennai(Pallavaram),1,3.6,27.5
+Chennai(Parry'S Corner),1,3.9,8.0
+Chennai(Poonamallee +3),1,3.6,2.75
+Chennai(Kilpauk),1,3.7,7.5
+Chennai(Kovilambakkam),1,3.6,5.5
+Chennai(Mettukuppam),1,4.0,5.0
+Chennai(Manapakkam),1,3.7,0.0
+Chennai(Kattankulathur),1,3.4,0.0
+Ahmedabad(Gift City),1,3.4,0.0
+Ahmedabad(Gota),1,4.1,0.0
+Kolkata(Park Street Area),1,3.2,4.0
+Kolkata(Salt Lake +2),1,3.6,2.75
+Kolkata(Salt Lake +1),1,4.1,7.5
+Kolkata(Saduli),1,3.6,4.75
+Kolkata(Camac Street),1,4.2,0.0
+Kolkata(Ballygunge Circular Road),1,3.6,2.5
+Kolkata(Bantala),1,3.8,2.75
+Kalyani,1,3.8,0.0
+Jaipur,1,3.2,0.0
+Mumbai(Malad),1,2.6,2.0
+Mumbai(Malad West),1,3.2,8.75
+Mumbai(Malad East),1,3.6,7.0
+Mumbai(Mahalaxmi),1,3.3,4.5
+Mumbai(Linking Road),1,4.2,0.0
+Mumbai(Hiranandani Gardens Powai),1,2.7,0.0
+Mumbai(Dadar),1,3.6,0.0
+Mumbai(Goregaon East +3),1,3.6,10.0
+Mumbai(Borivali West),1,3.6,10.0
+Mumbai(Cst +1),1,2.5,10.0
+Mumbai(Chandivali),1,3.8,0.0
+Kolkata(Sarat Bose Road),1,3.3,0.0
+Kolkata(Topsia),1,3.7,0.0
+Mumbai(Aarey Milk Colony),1,3.2,8.0
+Mumbai Suburban(Goregaon),1,4.2,0.0
+Mumbai(Andheri West +1),1,4.5,5.5
+Kolkata(Ep Block Sector 5 Salt Lake +2),1,2.7,3.25
+Kolkata(Ep Block Sector 5 Salt Lake +1),1,3.9,6.0
+Kolkata(Entally),1,3.4,0.0
+Kolkata(Chinar Park),1,4.4,2.75
+Kolkata(Baruipur),1,3.1,0.0
+Kolkata(Lake Gardens),1,4.6,4.25
+Kolkata(Ep Block Sector 5 Salt Lake),1,3.8,0.0
+Kolkata(Girish Park),1,3.6,2.38
+Kolkata(Lake Town),1,2.6,2.25
+Kolkata(Madhyamgram),1,3.6,4.25
+Kolkata(Kolkata Dakshin),1,3.3,22.5
+Kolkata(New Town +1),1,3.6,5.12
+Mumbai(Santacruz),1,4.4,0.3
+Mumbai(Masjid Bunder),1,3.6,2.25
+Mumbai(Parel),1,4.0,0.0
+Mumbai(Mulund),1,4.1,0.0
+Pune(Balewadi),1,3.7,0.0
+Pune(Balewadi Phata),1,3.7,3.5
+Pune(Aundh +5),1,3.6,5.75
+Panchkula,1,3.6,0.0
+Nagpur,1,4.5,0.0
+Neemrana,1,3.6,0.0
+North Goa,1,2.8,26.25
+Pahari,1,3.7,0.0
+Nagamangala,1,3.6,3.62
+Nagercoil,1,3.3,0.0
+Mumbai(Seepz +1),1,3.2,11.5
+Mumbai(Sion),1,4.2,12.0
+Mumbai(Turbhe),1,3.6,0.0
+Mumbai(Tardeo),1,3.6,0.0
+Mumbai(Vidyavihar),1,4.2,0.0
+Mumbai(Wadala East),1,3.5,30.0
+Pune(Pune Nashik Highway),1,3.3,0.0
+Pune(Mahalunge +2),1,3.6,17.5
+Pune(Kothrud +1),1,3.2,5.0
+Pune(Hinjewadi Phase 2),1,3.6,0.0
+Pune(Bhosari),1,3.6,0.25
+Pune(Baner +1),1,3.9,0.0
+Pune(Viman Nagar +1),1,3.3,0.0
+Pune(Senapati Bapat Road),1,4.3,0.25
+Pune(Yerwada),1,3.6,0.0
+Pune(Wanwadi),1,3.6,0.15
+Pune(Wakad +3),1,3.9,2.62
+Singrauli,1,3.6,0.0
+Temp. Wfh - Kolkata,1,3.6,0.0
+Temp. Wfh - Chennai,1,3.6,0.0
+Temp. Wfh - Pune,1,3.6,0.0
+United States (Usa),1,4.9,0.0

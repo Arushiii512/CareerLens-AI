@@ -1,0 +1,83 @@
+{
+  "numeric_features": [
+    "experience_min_yrs",
+    "experience_max_yrs",
+    "company_rating",
+    "skills_count"
+  ],
+  "categorical_features": [
+    "role_category",
+    "skill_domain",
+    "work_mode",
+    "company_size_bucket",
+    "city_bucketed"
+  ],
+  "target": "salary_midpoint_lpa",
+  "cities": [
+    "Ahmedabad",
+    "Bangalore",
+    "Chennai",
+    "Delhi",
+    "Gurgaon",
+    "Hyderabad",
+    "Kolkata",
+    "Mumbai",
+    "Mumbai Suburban",
+    "Mumbai(Airoli)",
+    "Noida",
+    "Pune",
+    "Pune(Baner)",
+    "Pune(Hinjewadi Phase 1)",
+    "Remote",
+    "Other"
+  ],
+  "role_categories": [
+    "Business Analyst",
+    "Data Analyst",
+    "Data Engineer",
+    "Data Scientist",
+    "Machine Learning Engineer",
+    "Python Developer"
+  ],
+  "skill_domains": [
+    "AI/ML/DL",
+    "Business Intelligence",
+    "Cloud & DevOps",
+    "Data Engineering",
+    "Data Science"
+  ],
+  "work_modes": [
+    "Hybrid",
+    "On-site",
+    "Remote"
+  ],
+  "company_size_buckets": [
+    "Large (1000+)",
+    "Mid (100-999)",
+    "Small/Startup (<100)"
+  ],
+  "experience_min_range": [
+    0.0,
+    20.0
+  ],
+  "experience_max_range": [
+    0.0,
+    31.0
+  ],
+  "company_rating_range": [
+    1.0,
+    5.0
+  ],
+  "skills_count_range": [
+    0,
+    8
+  ],
+  "training_rows": 2768,
+  "model_type": "GradientBoostingRegressor",
+  "metrics": {
+    "MAE_lpa": 5.35,
+    "RMSE_lpa": 7.5,
+    "R2": 0.384,
+    "residual_std_lpa": 7.5
+  }
+}

@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Raw scraped data is large and regeneratable is not needed at runtime -
+# the app only reads data/processed/careerlens_cleaned.csv, not the raw file.
+# Regenerate by re-running notebooks/1-2 against the original source (see README).
+data/raw/*.csv
+
+# Streamlit
+.streamlit/secrets.toml
